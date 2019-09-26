@@ -1,9 +1,6 @@
 // import external dependencies
 import "jquery";
 
-// Import everything from autoload
-import "./autoload/**/*";
-
 import "./../fonts/Inter/inter.css";
 import "./../styles/base.scss";
 
